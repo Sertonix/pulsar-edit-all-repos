@@ -118,9 +118,6 @@
 [submodule "autocomplete-atom-api"]
 	path = autocomplete-atom-api
 	url = https://github.com/pulsar-edit/autocomplete-atom-api.git
-[submodule "ripgrep"]
-	path = ripgrep
-	url = https://github.com/pulsar-edit/ripgrep.git
 [submodule "teletype"]
 	path = teletype
 	url = https://github.com/pulsar-edit/teletype.git
@@ -142,9 +139,6 @@
 [submodule "superstring"]
 	path = superstring
 	url = https://github.com/pulsar-edit/superstring.git
-[submodule "node-tree-sitter"]
-	path = node-tree-sitter
-	url = https://github.com/pulsar-edit/node-tree-sitter.git
 [submodule "notifications"]
 	path = notifications
 	url = https://github.com/pulsar-edit/notifications.git
@@ -259,9 +253,6 @@
 [submodule "repo-doc-gen"]
 	path = repo-doc-gen
 	url = https://github.com/pulsar-edit/repo-doc-gen.git
-[submodule "CI-test"]
-	path = CI-test
-	url = https://github.com/pulsar-edit/CI-test.git
 [submodule "biohazard-alert"]
 	path = biohazard-alert
 	url = https://github.com/pulsar-edit/biohazard-alert.git
@@ -397,9 +388,6 @@
 [submodule "atom-ide-diagnostics"]
 	path = atom-ide-diagnostics
 	url = https://github.com/pulsar-edit/atom-ide-diagnostics.git
-[submodule "squeegpg"]
-	path = squeegpg
-	url = https://github.com/pulsar-edit/squeegpg.git
 [submodule "mistaken-pull-closer"]
 	path = mistaken-pull-closer
 	url = https://github.com/pulsar-edit/mistaken-pull-closer.git
@@ -448,9 +436,6 @@
 [submodule "ide-json"]
 	path = ide-json
 	url = https://github.com/pulsar-edit/ide-json.git
-[submodule "windows-installer-1"]
-	path = windows-installer-1
-	url = https://github.com/pulsar-edit/windows-installer-1.git
 [submodule "tree-sitter"]
 	path = tree-sitter
 	url = https://github.com/pulsar-edit/tree-sitter.git
@@ -460,9 +445,6 @@
 [submodule "node-temp"]
 	path = node-temp
 	url = https://github.com/pulsar-edit/node-temp.git
-[submodule "node-plist"]
-	path = node-plist
-	url = https://github.com/pulsar-edit/node-plist.git
 [submodule "babel-plugin-chai-assert-async"]
 	path = babel-plugin-chai-assert-async
 	url = https://github.com/pulsar-edit/babel-plugin-chai-assert-async.git
@@ -481,27 +463,15 @@
 [submodule "atom-babel6-transpiler"]
 	path = atom-babel6-transpiler
 	url = https://github.com/pulsar-edit/atom-babel6-transpiler.git
-[submodule "squeegpg-native"]
-	path = squeegpg-native
-	url = https://github.com/pulsar-edit/squeegpg-native.git
 [submodule "fuzzaldrin"]
 	path = fuzzaldrin
 	url = https://github.com/pulsar-edit/fuzzaldrin.git
 [submodule "season"]
 	path = season
 	url = https://github.com/pulsar-edit/season.git
-[submodule "win-iconv"]
-	path = win-iconv
-	url = https://github.com/pulsar-edit/win-iconv.git
-[submodule "node-source-map-support"]
-	path = node-source-map-support
-	url = https://github.com/pulsar-edit/node-source-map-support.git
 [submodule "atom-ternjs"]
 	path = atom-ternjs
 	url = https://github.com/pulsar-edit/atom-ternjs.git
-[submodule "heroku-buildpack-multi"]
-	path = heroku-buildpack-multi
-	url = https://github.com/pulsar-edit/heroku-buildpack-multi.git
 [submodule "atom-bugs"]
 	path = atom-bugs
 	url = https://github.com/pulsar-edit/atom-bugs.git
@@ -538,9 +508,6 @@
 [submodule "dom-listener"]
 	path = dom-listener
 	url = https://github.com/pulsar-edit/dom-listener.git
-[submodule "slackin"]
-	path = slackin
-	url = https://github.com/pulsar-edit/slackin.git
 [submodule "template-syntax"]
 	path = template-syntax
 	url = https://github.com/pulsar-edit/template-syntax.git
@@ -580,9 +547,6 @@
 [submodule "cson-safe"]
 	path = cson-safe
 	url = https://github.com/pulsar-edit/cson-safe.git
-[submodule "roaster"]
-	path = roaster
-	url = https://github.com/pulsar-edit/roaster.git
 [submodule "grunt-atomdoc"]
 	path = grunt-atomdoc
 	url = https://github.com/pulsar-edit/grunt-atomdoc.git
@@ -607,9 +571,6 @@
 [submodule "jasmine-json"]
 	path = jasmine-json
 	url = https://github.com/pulsar-edit/jasmine-json.git
-[submodule "task-lists-js"]
-	path = task-lists-js
-	url = https://github.com/pulsar-edit/task-lists-js.git
 [submodule "require-snapshot"]
 	path = require-snapshot
 	url = https://github.com/pulsar-edit/require-snapshot.git
