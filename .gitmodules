@@ -187,9 +187,6 @@
 [submodule "action-setup-pulsar"]
 	path = action-setup-pulsar
 	url = https://github.com/pulsar-edit/action-setup-pulsar.git
-[submodule "etch-list-view"]
-	path = etch-list-view
-	url = https://github.com/pulsar-edit/etch-list-view.git
 [submodule "etch"]
 	path = etch
 	url = https://github.com/pulsar-edit/etch.git
@@ -394,9 +391,6 @@
 [submodule "autocomplete-emojis"]
 	path = autocomplete-emojis
 	url = https://github.com/pulsar-edit/autocomplete-emojis.git
-[submodule "generator-atom-npm"]
-	path = generator-atom-npm
-	url = https://github.com/pulsar-edit/generator-atom-npm.git
 [submodule "ascii-art"]
 	path = ascii-art
 	url = https://github.com/pulsar-edit/ascii-art.git
@@ -514,6 +508,3 @@
 [submodule "jasmine-json"]
 	path = jasmine-json
 	url = https://github.com/pulsar-edit/jasmine-json.git
-[submodule "require-snapshot"]
-	path = require-snapshot
-	url = https://github.com/pulsar-edit/require-snapshot.git
