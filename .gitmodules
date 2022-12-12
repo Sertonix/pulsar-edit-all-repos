@@ -16,9 +16,6 @@
 [submodule "superstring-wasm"]
 	path = superstring-wasm
 	url = https://github.com/pulsar-edit/superstring-wasm.git
-[submodule "vim-mode"]
-	path = vim-mode
-	url = https://github.com/pulsar-edit/vim-mode.git
 [submodule ".github"]
 	path = .github
 	url = https://github.com/pulsar-edit/.github.git
@@ -241,9 +238,6 @@
 [submodule "rollup-plugin-atomic"]
 	path = rollup-plugin-atomic
 	url = https://github.com/pulsar-edit/rollup-plugin-atomic.git
-[submodule "tree-sitter-typescript"]
-	path = tree-sitter-typescript
-	url = https://github.com/pulsar-edit/tree-sitter-typescript.git
 [submodule "archived-alternative-method"]
 	path = archived-alternative-method
 	url = https://github.com/pulsar-edit/archived-alternative-method.git
@@ -283,9 +277,6 @@
 [submodule "mixto"]
 	path = mixto
 	url = https://github.com/pulsar-edit/mixto.git
-[submodule "highlights"]
-	path = highlights
-	url = https://github.com/pulsar-edit/highlights.git
 [submodule "node-ctags"]
 	path = node-ctags
 	url = https://github.com/pulsar-edit/node-ctags.git
@@ -307,9 +298,6 @@
 [submodule "keyboard-layout"]
 	path = keyboard-layout
 	url = https://github.com/pulsar-edit/keyboard-layout.git
-[submodule "legal-eagle"]
-	path = legal-eagle
-	url = https://github.com/pulsar-edit/legal-eagle.git
 [submodule "whats-my-line"]
 	path = whats-my-line
 	url = https://github.com/pulsar-edit/whats-my-line.git
@@ -349,9 +337,6 @@
 [submodule "node-spellchecker"]
 	path = node-spellchecker
 	url = https://github.com/pulsar-edit/node-spellchecker.git
-[submodule "spawn-as-admin"]
-	path = spawn-as-admin
-	url = https://github.com/pulsar-edit/spawn-as-admin.git
 [submodule "less-cache"]
 	path = less-cache
 	url = https://github.com/pulsar-edit/less-cache.git
@@ -397,9 +382,6 @@
 [submodule "active-editor-info"]
 	path = active-editor-info
 	url = https://github.com/pulsar-edit/active-editor-info.git
-[submodule "line-length-index"]
-	path = line-length-index
-	url = https://github.com/pulsar-edit/line-length-index.git
 [submodule "line-top-index"]
 	path = line-top-index
 	url = https://github.com/pulsar-edit/line-top-index.git
@@ -418,9 +400,6 @@
 [submodule "ascii-art"]
 	path = ascii-art
 	url = https://github.com/pulsar-edit/ascii-art.git
-[submodule "node-github-releases"]
-	path = node-github-releases
-	url = https://github.com/pulsar-edit/node-github-releases.git
 [submodule "jasmine-tagged"]
 	path = jasmine-tagged
 	url = https://github.com/pulsar-edit/jasmine-tagged.git
@@ -442,18 +421,12 @@
 [submodule "language-pegjs"]
 	path = language-pegjs
 	url = https://github.com/pulsar-edit/language-pegjs.git
-[submodule "node-temp"]
-	path = node-temp
-	url = https://github.com/pulsar-edit/node-temp.git
 [submodule "babel-plugin-chai-assert-async"]
 	path = babel-plugin-chai-assert-async
 	url = https://github.com/pulsar-edit/babel-plugin-chai-assert-async.git
 [submodule "atom-babel7-transpiler"]
 	path = atom-babel7-transpiler
 	url = https://github.com/pulsar-edit/atom-babel7-transpiler.git
-[submodule "jasmine-reporters"]
-	path = jasmine-reporters
-	url = https://github.com/pulsar-edit/jasmine-reporters.git
 [submodule "service-hub"]
 	path = service-hub
 	url = https://github.com/pulsar-edit/service-hub.git
@@ -502,12 +475,6 @@
 [submodule "neon"]
 	path = neon
 	url = https://github.com/pulsar-edit/neon.git
-[submodule "coffee-cash"]
-	path = coffee-cash
-	url = https://github.com/pulsar-edit/coffee-cash.git
-[submodule "dom-listener"]
-	path = dom-listener
-	url = https://github.com/pulsar-edit/dom-listener.git
 [submodule "template-syntax"]
 	path = template-syntax
 	url = https://github.com/pulsar-edit/template-syntax.git
@@ -526,54 +493,27 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/pulsar-edit/react.git
-[submodule "reactionary"]
-	path = reactionary
-	url = https://github.com/pulsar-edit/reactionary.git
 [submodule "tree-view-finder"]
 	path = tree-view-finder
 	url = https://github.com/pulsar-edit/tree-view-finder.git
-[submodule "television"]
-	path = television
-	url = https://github.com/pulsar-edit/television.git
 [submodule "scoped-property-store"]
 	path = scoped-property-store
 	url = https://github.com/pulsar-edit/scoped-property-store.git
-[submodule "deferred-require"]
-	path = deferred-require
-	url = https://github.com/pulsar-edit/deferred-require.git
 [submodule "selector-kit"]
 	path = selector-kit
 	url = https://github.com/pulsar-edit/selector-kit.git
-[submodule "cson-safe"]
-	path = cson-safe
-	url = https://github.com/pulsar-edit/cson-safe.git
 [submodule "grunt-atomdoc"]
 	path = grunt-atomdoc
 	url = https://github.com/pulsar-edit/grunt-atomdoc.git
-[submodule "text-transforms"]
-	path = text-transforms
-	url = https://github.com/pulsar-edit/text-transforms.git
-[submodule "jsdiff"]
-	path = jsdiff
-	url = https://github.com/pulsar-edit/jsdiff.git
 [submodule "slick"]
 	path = slick
 	url = https://github.com/pulsar-edit/slick.git
 [submodule "api"]
 	path = api
 	url = https://github.com/pulsar-edit/api.git
-[submodule "grunt-coffeelint"]
-	path = grunt-coffeelint
-	url = https://github.com/pulsar-edit/grunt-coffeelint.git
-[submodule "theorist"]
-	path = theorist
-	url = https://github.com/pulsar-edit/theorist.git
 [submodule "jasmine-json"]
 	path = jasmine-json
 	url = https://github.com/pulsar-edit/jasmine-json.git
 [submodule "require-snapshot"]
 	path = require-snapshot
 	url = https://github.com/pulsar-edit/require-snapshot.git
-[submodule "jasmine-waits-for-callback"]
-	path = jasmine-waits-for-callback
-	url = https://github.com/pulsar-edit/jasmine-waits-for-callback.git
