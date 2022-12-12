@@ -19,57 +19,9 @@
 [submodule "vim-mode"]
 	path = vim-mode
 	url = https://github.com/pulsar-edit/vim-mode.git
-[submodule "language-coffee-script"]
-	path = language-coffee-script
-	url = https://github.com/pulsar-edit/language-coffee-script.git
-[submodule "language-todo"]
-	path = language-todo
-	url = https://github.com/pulsar-edit/language-todo.git
-[submodule "language-json"]
-	path = language-json
-	url = https://github.com/pulsar-edit/language-json.git
 [submodule ".github"]
 	path = .github
 	url = https://github.com/pulsar-edit/.github.git
-[submodule "language-c"]
-	path = language-c
-	url = https://github.com/pulsar-edit/language-c.git
-[submodule "language-yaml"]
-	path = language-yaml
-	url = https://github.com/pulsar-edit/language-yaml.git
-[submodule "language-source"]
-	path = language-source
-	url = https://github.com/pulsar-edit/language-source.git
-[submodule "language-mustache"]
-	path = language-mustache
-	url = https://github.com/pulsar-edit/language-mustache.git
-[submodule "language-javascript"]
-	path = language-javascript
-	url = https://github.com/pulsar-edit/language-javascript.git
-[submodule "language-typescript"]
-	path = language-typescript
-	url = https://github.com/pulsar-edit/language-typescript.git
-[submodule "language-sql"]
-	path = language-sql
-	url = https://github.com/pulsar-edit/language-sql.git
-[submodule "language-objective-c"]
-	path = language-objective-c
-	url = https://github.com/pulsar-edit/language-objective-c.git
-[submodule "language-property-list"]
-	path = language-property-list
-	url = https://github.com/pulsar-edit/language-property-list.git
-[submodule "language-gfm"]
-	path = language-gfm
-	url = https://github.com/pulsar-edit/language-gfm.git
-[submodule "language-text"]
-	path = language-text
-	url = https://github.com/pulsar-edit/language-text.git
-[submodule "language-less"]
-	path = language-less
-	url = https://github.com/pulsar-edit/language-less.git
-[submodule "language-python"]
-	path = language-python
-	url = https://github.com/pulsar-edit/language-python.git
 [submodule "toggle-quotes"]
 	path = toggle-quotes
 	url = https://github.com/pulsar-edit/toggle-quotes.git
@@ -148,9 +100,6 @@
 [submodule "scroll-searcher"]
 	path = scroll-searcher
 	url = https://github.com/pulsar-edit/scroll-searcher.git
-[submodule "language-clojure"]
-	path = language-clojure
-	url = https://github.com/pulsar-edit/language-clojure.git
 [submodule "language-xml"]
 	path = language-xml
 	url = https://github.com/pulsar-edit/language-xml.git
@@ -283,15 +232,9 @@
 [submodule "fs-plus"]
 	path = fs-plus
 	url = https://github.com/pulsar-edit/fs-plus.git
-[submodule "decoration-example"]
-	path = decoration-example
-	url = https://github.com/pulsar-edit/decoration-example.git
 [submodule "core-languages"]
 	path = core-languages
 	url = https://github.com/pulsar-edit/core-languages.git
-[submodule "telemetry"]
-	path = telemetry
-	url = https://github.com/pulsar-edit/telemetry.git
 [submodule "linter-languagetool"]
 	path = linter-languagetool
 	url = https://github.com/pulsar-edit/linter-languagetool.git
@@ -301,12 +244,6 @@
 [submodule "essential-packages"]
 	path = essential-packages
 	url = https://github.com/pulsar-edit/essential-packages.git
-[submodule "atomdoc"]
-	path = atomdoc
-	url = https://github.com/pulsar-edit/atomdoc.git
-[submodule "metrics"]
-	path = metrics
-	url = https://github.com/pulsar-edit/metrics.git
 [submodule "action-setup-pulsar"]
 	path = action-setup-pulsar
 	url = https://github.com/pulsar-edit/action-setup-pulsar.git
@@ -316,66 +253,6 @@
 [submodule "etch"]
 	path = etch
 	url = https://github.com/pulsar-edit/etch.git
-[submodule "elmer"]
-	path = elmer
-	url = https://github.com/pulsar-edit/elmer.git
-[submodule "dowsing-rod"]
-	path = dowsing-rod
-	url = https://github.com/pulsar-edit/dowsing-rod.git
-[submodule "atom-docker-ci"]
-	path = atom-docker-ci
-	url = https://github.com/pulsar-edit/atom-docker-ci.git
-[submodule "chocolatey"]
-	path = chocolatey
-	url = https://github.com/pulsar-edit/chocolatey.git
-[submodule "atom-ui"]
-	path = atom-ui
-	url = https://github.com/pulsar-edit/atom-ui.git
-[submodule "atom-theme-temp"]
-	path = atom-theme-temp
-	url = https://github.com/pulsar-edit/atom-theme-temp.git
-[submodule "atom-theme"]
-	path = atom-theme
-	url = https://github.com/pulsar-edit/atom-theme.git
-[submodule "apm"]
-	path = apm
-	url = https://github.com/pulsar-edit/apm.git
-[submodule "space-pen-example-templates"]
-	path = space-pen-example-templates
-	url = https://github.com/pulsar-edit/space-pen-example-templates.git
-[submodule "space-pencil"]
-	path = space-pencil
-	url = https://github.com/pulsar-edit/space-pencil.git
-[submodule "nuclide-debugger-test"]
-	path = nuclide-debugger-test
-	url = https://github.com/pulsar-edit/nuclide-debugger-test.git
-[submodule "gsoc-atom"]
-	path = gsoc-atom
-	url = https://github.com/pulsar-edit/gsoc-atom.git
-[submodule "design-decisions"]
-	path = design-decisions
-	url = https://github.com/pulsar-edit/design-decisions.git
-[submodule "type_safe"]
-	path = type_safe
-	url = https://github.com/pulsar-edit/type_safe.git
-[submodule "atom.io"]
-	path = atom.io
-	url = https://github.com/pulsar-edit/atom.io.git
-[submodule "ui"]
-	path = ui
-	url = https://github.com/pulsar-edit/ui.git
-[submodule "eon"]
-	path = eon
-	url = https://github.com/pulsar-edit/eon.git
-[submodule "atom-nightly-releases"]
-	path = atom-nightly-releases
-	url = https://github.com/pulsar-edit/atom-nightly-releases.git
-[submodule "atom-text-editor-exercise"]
-	path = atom-text-editor-exercise
-	url = https://github.com/pulsar-edit/atom-text-editor-exercise.git
-[submodule "husk-sample"]
-	path = husk-sample
-	url = https://github.com/pulsar-edit/husk-sample.git
 [submodule "ide-python"]
 	path = ide-python
 	url = https://github.com/pulsar-edit/ide-python.git
@@ -415,105 +292,15 @@
 [submodule "atom-ide-template-js"]
 	path = atom-ide-template-js
 	url = https://github.com/pulsar-edit/atom-ide-template-js.git
-[submodule "deprecation-cop"]
-	path = deprecation-cop
-	url = https://github.com/pulsar-edit/deprecation-cop.git
-[submodule "exception-reporting"]
-	path = exception-reporting
-	url = https://github.com/pulsar-edit/exception-reporting.git
-[submodule "atom-light-ui"]
-	path = atom-light-ui
-	url = https://github.com/pulsar-edit/atom-light-ui.git
-[submodule "dalek"]
-	path = dalek
-	url = https://github.com/pulsar-edit/dalek.git
-[submodule "grammar-selector"]
-	path = grammar-selector
-	url = https://github.com/pulsar-edit/grammar-selector.git
-[submodule "base16-tomorrow-dark-theme"]
-	path = base16-tomorrow-dark-theme
-	url = https://github.com/pulsar-edit/base16-tomorrow-dark-theme.git
-[submodule "one-light-syntax"]
-	path = one-light-syntax
-	url = https://github.com/pulsar-edit/one-light-syntax.git
-[submodule "one-dark-ui"]
-	path = one-dark-ui
-	url = https://github.com/pulsar-edit/one-dark-ui.git
-[submodule "line-ending-selector"]
-	path = line-ending-selector
-	url = https://github.com/pulsar-edit/line-ending-selector.git
-[submodule "base16-tomorrow-light-theme"]
-	path = base16-tomorrow-light-theme
-	url = https://github.com/pulsar-edit/base16-tomorrow-light-theme.git
-[submodule "atom-light-syntax"]
-	path = atom-light-syntax
-	url = https://github.com/pulsar-edit/atom-light-syntax.git
-[submodule "go-to-line"]
-	path = go-to-line
-	url = https://github.com/pulsar-edit/go-to-line.git
-[submodule "link"]
-	path = link
-	url = https://github.com/pulsar-edit/link.git
-[submodule "one-dark-syntax"]
-	path = one-dark-syntax
-	url = https://github.com/pulsar-edit/one-dark-syntax.git
-[submodule "flight-manual.atom.io"]
-	path = flight-manual.atom.io
-	url = https://github.com/pulsar-edit/flight-manual.atom.io.git
-[submodule "incompatible-packages"]
-	path = incompatible-packages
-	url = https://github.com/pulsar-edit/incompatible-packages.git
 [submodule "temp-pulsar-subreddit-wiki"]
 	path = temp-pulsar-subreddit-wiki
 	url = https://github.com/pulsar-edit/temp-pulsar-subreddit-wiki.git
-[submodule "dev-live-reload"]
-	path = dev-live-reload
-	url = https://github.com/pulsar-edit/dev-live-reload.git
-[submodule "atom-space-pen-views"]
-	path = atom-space-pen-views
-	url = https://github.com/pulsar-edit/atom-space-pen-views.git
-[submodule "atom-dark-ui"]
-	path = atom-dark-ui
-	url = https://github.com/pulsar-edit/atom-dark-ui.git
-[submodule "git-diff"]
-	path = git-diff
-	url = https://github.com/pulsar-edit/git-diff.git
-[submodule "one-light-ui"]
-	path = one-light-ui
-	url = https://github.com/pulsar-edit/one-light-ui.git
-[submodule "solarized-dark-syntax"]
-	path = solarized-dark-syntax
-	url = https://github.com/pulsar-edit/solarized-dark-syntax.git
-[submodule "solarized-light-syntax"]
-	path = solarized-light-syntax
-	url = https://github.com/pulsar-edit/solarized-light-syntax.git
-[submodule "update-package-dependencies"]
-	path = update-package-dependencies
-	url = https://github.com/pulsar-edit/update-package-dependencies.git
 [submodule "rollup-plugin-atomic"]
 	path = rollup-plugin-atomic
 	url = https://github.com/pulsar-edit/rollup-plugin-atomic.git
 [submodule "tree-sitter-typescript"]
 	path = tree-sitter-typescript
 	url = https://github.com/pulsar-edit/tree-sitter-typescript.git
-[submodule "watcher"]
-	path = watcher
-	url = https://github.com/pulsar-edit/watcher.git
-[submodule "autoflow"]
-	path = autoflow
-	url = https://github.com/pulsar-edit/autoflow.git
-[submodule "atom-dark-syntax"]
-	path = atom-dark-syntax
-	url = https://github.com/pulsar-edit/atom-dark-syntax.git
-[submodule "about"]
-	path = about
-	url = https://github.com/pulsar-edit/about.git
-[submodule "cached-run-in-this-context"]
-	path = cached-run-in-this-context
-	url = https://github.com/pulsar-edit/cached-run-in-this-context.git
-[submodule "welcome"]
-	path = welcome
-	url = https://github.com/pulsar-edit/welcome.git
 [submodule "archived-alternative-method"]
 	path = archived-alternative-method
 	url = https://github.com/pulsar-edit/archived-alternative-method.git
