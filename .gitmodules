@@ -100,57 +100,6 @@
 [submodule "scroll-searcher"]
 	path = scroll-searcher
 	url = https://github.com/pulsar-edit/scroll-searcher.git
-[submodule "language-xml"]
-	path = language-xml
-	url = https://github.com/pulsar-edit/language-xml.git
-[submodule "language-toml"]
-	path = language-toml
-	url = https://github.com/pulsar-edit/language-toml.git
-[submodule "language-shellscript"]
-	path = language-shellscript
-	url = https://github.com/pulsar-edit/language-shellscript.git
-[submodule "language-sass"]
-	path = language-sass
-	url = https://github.com/pulsar-edit/language-sass.git
-[submodule "language-rust"]
-	path = language-rust
-	url = https://github.com/pulsar-edit/language-rust.git
-[submodule "language-ruby"]
-	path = language-ruby
-	url = https://github.com/pulsar-edit/language-ruby.git
-[submodule "language-ruby-on-rails"]
-	path = language-ruby-on-rails
-	url = https://github.com/pulsar-edit/language-ruby-on-rails.git
-[submodule "language-php"]
-	path = language-php
-	url = https://github.com/pulsar-edit/language-php.git
-[submodule "language-perl"]
-	path = language-perl
-	url = https://github.com/pulsar-edit/language-perl.git
-[submodule "language-make"]
-	path = language-make
-	url = https://github.com/pulsar-edit/language-make.git
-[submodule "language-java"]
-	path = language-java
-	url = https://github.com/pulsar-edit/language-java.git
-[submodule "language-hyperlink"]
-	path = language-hyperlink
-	url = https://github.com/pulsar-edit/language-hyperlink.git
-[submodule "language-html"]
-	path = language-html
-	url = https://github.com/pulsar-edit/language-html.git
-[submodule "language-go"]
-	path = language-go
-	url = https://github.com/pulsar-edit/language-go.git
-[submodule "language-git"]
-	path = language-git
-	url = https://github.com/pulsar-edit/language-git.git
-[submodule "language-css"]
-	path = language-css
-	url = https://github.com/pulsar-edit/language-css.git
-[submodule "language-csharp"]
-	path = language-csharp
-	url = https://github.com/pulsar-edit/language-csharp.git
 [submodule "github"]
 	path = github
 	url = https://github.com/pulsar-edit/github.git
