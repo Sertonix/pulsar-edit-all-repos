@@ -31,15 +31,6 @@
 [submodule "keybinding-resolver"]
 	path = keybinding-resolver
 	url = https://github.com/pulsar-edit/keybinding-resolver.git
-[submodule "package-generator"]
-	path = package-generator
-	url = https://github.com/pulsar-edit/package-generator.git
-[submodule "autocomplete-css"]
-	path = autocomplete-css
-	url = https://github.com/pulsar-edit/autocomplete-css.git
-[submodule "autocomplete-html"]
-	path = autocomplete-html
-	url = https://github.com/pulsar-edit/autocomplete-html.git
 [submodule "autocomplete-snippets"]
 	path = autocomplete-snippets
 	url = https://github.com/pulsar-edit/autocomplete-snippets.git
@@ -58,9 +49,6 @@
 [submodule "open-on-github"]
 	path = open-on-github
 	url = https://github.com/pulsar-edit/open-on-github.git
-[submodule "settings-view"]
-	path = settings-view
-	url = https://github.com/pulsar-edit/settings-view.git
 [submodule "snippets"]
 	path = snippets
 	url = https://github.com/pulsar-edit/snippets.git
