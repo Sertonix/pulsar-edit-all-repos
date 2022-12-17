@@ -487,9 +487,6 @@
 [submodule "atom-ternjs"]
 	path = atom-ternjs
 	url = https://github.com/pulsar-edit/atom-ternjs.git
-[submodule "heroku-buildpack-multi"]
-	path = heroku-buildpack-multi
-	url = https://github.com/pulsar-edit/heroku-buildpack-multi.git
 [submodule "atom-bugs"]
 	path = atom-bugs
 	url = https://github.com/pulsar-edit/atom-bugs.git
@@ -526,9 +523,6 @@
 [submodule "dom-listener"]
 	path = dom-listener
 	url = https://github.com/pulsar-edit/dom-listener.git
-[submodule "slackin"]
-	path = slackin
-	url = https://github.com/pulsar-edit/slackin.git
 [submodule "template-syntax"]
 	path = template-syntax
 	url = https://github.com/pulsar-edit/template-syntax.git
