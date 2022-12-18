@@ -217,9 +217,6 @@
 [submodule "atom-ide-template-js"]
 	path = atom-ide-template-js
 	url = https://github.com/pulsar-edit/atom-ide-template-js.git
-[submodule "temp-pulsar-subreddit-wiki"]
-	path = temp-pulsar-subreddit-wiki
-	url = https://github.com/pulsar-edit/temp-pulsar-subreddit-wiki.git
 [submodule "rollup-plugin-atomic"]
 	path = rollup-plugin-atomic
 	url = https://github.com/pulsar-edit/rollup-plugin-atomic.git
